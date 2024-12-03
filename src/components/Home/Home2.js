@@ -19,37 +19,22 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I received my Bachelor's degree in Computer Science in 2017.… 🤷‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />I am senior Front End Engineer and my top skills are
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> MERN Stack, Vue.js, Nuxt.js, AngularJS, Next.js, Nest.js</b>… 🤷‍♂️
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My dream are developing one of the most perfect &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
+                <b className="purple">websites and IT Products </b> all over the world{" "}
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              Whenever possible, I'll present <b className="purple">Front End framework</b>
+              so I will contribute to making it easier for Front End developers to develop projects than it is now.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
